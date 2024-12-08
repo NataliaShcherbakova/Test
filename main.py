@@ -1,3 +1,4 @@
+# Черепашья графика, рисуем волну
 from turtle import *
 t = Turtle()
 t.fillcolor("blue")
